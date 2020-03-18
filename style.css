@@ -47,6 +47,12 @@ p {
     z-index: 1000;
 }
 
+.nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}	
+
 .header.fixed {
     height: auto;
 
